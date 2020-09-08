@@ -1,4 +1,4 @@
-# *Sean Hearne*
+# **Sean Hearne**
 hearnesc@mail.uc.edu
 614-560-9530
 ## Experience 
