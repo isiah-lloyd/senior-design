@@ -4,7 +4,7 @@
 * Research prior work in machine learning and document analysis [Will / Sean]
 * Research infrastructure options  [Isiah]
 * Research data format to feed into ML model [Sean]
-* Research current accessability standards [Maddie]
+* Research current accessibility standards [Maddie]
 * Develop web extension [Isiah]
     - Obtain DOM
     - Send DOM to backend API
