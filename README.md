@@ -7,7 +7,7 @@
   
 All contributers are computer science majors
 ## Faculty Advisor
-* TBD
+* Dr. Badri Vellambi
 ## Project Details
 ### Topic Area
 A new, redesigned screen reader for people with vision disabilities that utilizes AI/ML to help navigate web pages with ease and efficiency.
