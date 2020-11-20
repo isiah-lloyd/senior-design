@@ -30,7 +30,43 @@ Website: https://www.madelineeckhart.com
 ## Project Sought
 My ideal capstone project would be mobile or web-based and include a user interface. I would like the chance to use my UI skills in my final project and develop a product visually from start to finish.
 
+***
 
+# Sean Hearne
+Email: hearnesc@mail.uc.edu  
+
+Phone: 614-560-9530
+## Co-op Experience 
+### Hyosung America, Semesters (1)
+#### Software Development Intern
+* Worked as full stack developer on ActiveTeller and Cash Management team
+* Implemented new UI pages with bitmap conversions
+* Designed a core integration with a vendor/’s custom API
+* Helped convert our back-end database from Mongo database to Amazon SQS
+* Individual created a backend microservice for our web-based application
+* Created documenting for multiple projects
+### Etegent Technologies, Semesters (1)
+#### Software Development Intern
+* Worked on the backend development of NLign Analytics program
+* Implemented improvements to the build process using JavaScript and Batch script
+* Lead the integration of distributed build server with Jenkins
+* Demoed and created new training for the build server to the company
+### London Computer Systems, Semesters (2)
+#### Software Development Intern
+* Worked as full stack developer for innovation team for Rent Manager 12 program
+* Presented prototypes for multiple tickets to management demonstrating effective changes
+* Learned MySQL to make performance improvements on code created by a senior developer
+* Learned C# and XAML in preparation for software development role 
+## Skills / Areas of Interest
+* Languages: C#, Python, Javascript, Java, C++
+* Database development: SQL, MySQL, Amazon SQS
+## Project Sought
+* Machine Learning 
+* Artificial Intelligence
+* Business
+* Web or Mobile Development 
+
+***
 
 # Isiah Lloyd
 Email: lloydij@mail.uc.edu  
