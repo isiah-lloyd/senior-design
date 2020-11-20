@@ -9,6 +9,6 @@
 |4. Tasks and Timeline(TODO)| [EffortMatrix](04-project-tasks-and-timeline.md#effort-martix) --- [TimeLine](04-project-tasks-and-timeline.md#timeline) --- [Task List](04-project-tasks-and-timeline.md#task-list)|
 |5. PPT Slideshow(TODO) | [Slidedeck](06-ppt-slideshow.md)||
 |6. Self-Assesments(TODO)| [Essays](07-self-assessment-essays.md)|
-|7. Biographies(TODO)| [Bios](08-professional-biographies.md)|
+|7. Biographies | [Bios](08-professional-biographies.md)|
 |8. Budget(TODO) | [Budget](09-budget.md)|
 |9. Appendix(TODO)| [Appendix](10-appendix.md)|
