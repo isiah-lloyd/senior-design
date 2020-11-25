@@ -1,6 +1,6 @@
-## Individual Capstone Assessment
-### Maddie Eckhart
----
+# Individual Capstone Assessment
+## Maddie Eckhart
+
 My senior design project will be creating a screen reader for people with vision disabilities. It will use artificial intelligence and machine learning to navigate web pages efficiently and with ease. Current screen readers go through the website from top to bottom without any regard to the layout. The screen reader we plan to build will use machine learning to find the most important thing first, so it is easier to navigate and get information quickly. We will develop a product that puts the user first and seriously considers what will be useful and what is unnecessary.  
 
 My co-op experiences are centered around user design and mobile development. Accessibility is a major part of mobile development because it can be a huge draw if disabled users can use it effectively just like sighted users. My first co-op was at Giant Sparkplug LLC in Dayton, Ohio as the mobile intern. While I was in Dayton, I learned the fundamentals of mobile development and started my journey as a developer. My second co-op was at Ulta Beauty in Chicago, Illinois as the Mobile Development Intern. My third, fourth, and fifth co-op were all with Kroger Digital as the iOS Development Intern.  
