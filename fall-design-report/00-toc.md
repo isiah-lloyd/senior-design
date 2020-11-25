@@ -10,5 +10,5 @@
 |5. PPT Slideshow | [Slidedeck](Fall_Presentation.pdf)||
 |6. Self-Assesments | [Essays](6-individual-assesments.md)|
 |7. Biographies | [Bios](7-professional-biographies.md)|
-|8. Budget(TODO) | [Budget](8-budget.md)|
+|8. Budget | [Budget](8-budget.md)|
 |9. Appendix(TODO)| [Appendix](9-appendix.md)|
