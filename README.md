@@ -11,4 +11,5 @@ All contributers are computer science majors
 ## Project Details
 ### Topic Area
 A new, redesigned screen reader for people with vision disabilities that utilizes AI/ML to help navigate web pages with ease and efficiency.
-
+### Fall Project Report
+[Link to Table of Contents](fall-design-report/00-toc.md)
