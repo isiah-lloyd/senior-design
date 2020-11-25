@@ -2,7 +2,7 @@
 
 | Document | Link |
 | -------- | ---- |
-| 1. Abstract(TODO) | [Abstract](1-project-abstract.md)   |
+| 1. Abstract | [Abstract](1-project-abstract.md)   |
 |2. Project Description | [Description](2-project-description.md)|
 |3a. User Stories | [Stories](3-user-stories-and-design-diagrams.md)|
 |3b. Design Diagrams | [Diagrams](3-user-stories-and-design-diagrams.md)|
