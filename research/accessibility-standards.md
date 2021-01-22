@@ -32,5 +32,52 @@
 - Postpone or suppress interruptions, except where necessary
 - Re-authenticate when a session expires without losing data
 
+### Sources
 - [Accessibility Principles](https://www.w3.org/WAI/fundamentals/accessibility-principles/)
-- [Source](https://www.w3.org/standards/webdesign/accessibility.html)
+- [W3C](https://www.w3.org/standards/webdesign/accessibility.html)
+
+## Apple's VoiceOver
+- VoiceOver enables users with visual disabilities to control their computer using a rich set of keyboard commands and gestures
+- VoiceOver is a built-in screen reader that describes aloud what appears on your computer screen: it speaks the text that’s in documents and windows
+  - To turn on VoiceOver on a Mac, press Command-F5
+- When VoiceOver is on, you can use VoiceOver commands to navigate and interact with items on the screen
+  - You enter VoiceOver commands by holding down the Control and Option keys together, along with one or more other keys. 
+  - The Control and Option keys are called the “VoiceOver keys,” or “VO keys” for short. 
+  - They are shown in commands as VO, as in VO-F1. 
+  - You can assign VoiceOver commands to numeric keypad keys, keyboard keys, braille display input keys, and trackpad gestures, so you can use the commands with fewer keystrokes.
+- You use the VoiceOver cursor to move around the screen and hear descriptions of the items in the cursor. 
+- You use it to select buttons and other controls, and to read and edit text. 
+- The keyboard focus and mouse pointer work with the VoiceOver cursor in a variety of ways. 
+  - You can configure them to follow each other, or use them separately to move in different applications at the same time.
+- When VoiceOver is on, you can start the tutorial at any time by pressing VO-Command-F8.
+### About the VoiceOver cursor, mouse pointer, and keyboard focus
+- When you use VoiceOver to move to areas of the screen or within the text in a document, a dark rectangle is drawn around the area where VoiceOver is focused. This rectangle is called the “VoiceOver cursor.”
+- By default, the keyboard focus and VoiceOver cursor match, so that wherever you move the keyboard focus using standard keyboard navigation (Tab key and arrow keys), the VoiceOver cursor follows. And wherever the VoiceOver cursor goes, the keyboard focus follows (if possible). 
+  - This is called “cursor tracking.” You can also turn on cursor tracking for the mouse.
+- When you open a new window, the VoiceOver cursor and the keyboard focus are positioned on the same item. For example, when you open a New Message window in Mail, the VoiceOver cursor and the keyboard focus are positioned on the To field. If you prefer, you can make the initial position of the VoiceOver cursor be on the first item in the window.
+- You can turn off cursor tracking. For example, you might want to leave the keyboard focus in one place and move the VoiceOver cursor around to read a dialog that just appeared, check email messages, or perform other tasks. If you turn off cursor tracking, you can use VoiceOver commands to move the VoiceOver cursor to where the keyboard is focused when you need to. You can do the same for the mouse.
+  - You set preferences for the initial position of the cursor and for cursor tracking using VoiceOver Utility.
+
+### Sources
+- [Apple.com](https://www.apple.com/accessibility/vision/)
+- [VoiceOver Guide](https://www.apple.com/voiceover/info/guide/_1121.html)
+
+## Interesting Insights
+- This [wired.com article](https://www.wired.com/story/web-accessibility-blind-users-dominos/) really emphasizes that "people who use screen readers are regularly confronted with readouts like “unlabeled button” or “image1.jpg” in place of the descriptive information they need to navigate." Especially when most retail and shopping is online nowadays
+  - Big reason to include image recognizer
+- Beyonce got sued for her website [not being accessible](https://www.hollywoodreporter.com/thr-esq/beyonces-parkwood-entertainment-sued-1172909)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
