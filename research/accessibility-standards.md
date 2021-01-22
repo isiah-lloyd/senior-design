@@ -62,6 +62,40 @@
 - [Apple.com](https://www.apple.com/accessibility/vision/)
 - [VoiceOver Guide](https://www.apple.com/voiceover/info/guide/_1121.html)
 
+## NVDA Screenreader
+- NVDA allows blind and vision impaired people to access and interact with the Windows operating system and many third party applications.
+- Support for popular applications including web browsers such as Mozilla Firefox and Google Chrome, email clients, internet chat software, music players, and office programs such as Microsoft Word and Excel
+- Built-in speech synthesizer supporting over 50 languages, plus support for many other 3rd party voices
+- Reporting of textual formatting where available such as font name and size, style and spelling errors
+- Automatic announcement of text under the mouse and optional audible indication of the mouse position
+- Support for many refreshable braille displays, including input of Braille via braille displays that have a braille keyboard
+- Ability to run entirely from a USB flash drive or other portable media without the need for installation
+- Easy to use talking installer
+- Translated into more than 50 languages
+- Support for modern Windows Operating Systems including both 32 and 64 bit variants
+- Ability to run on Windows logon and other secure screens
+- Announcing controls and text while interacting with gestures on touch screens
+
+### Sources
+- [NVDA Homepage](https://www.nvaccess.org)
+
+## JAWS
+### Features
+- Two multi-lingual synthesizers: Eloquence and Vocalizer Expressive
+- Talking installation
+- Convenient OCR feature for image files or inaccessible PDF documents
+- Supports PEARL Camera for direct access to Print documents or books
+- Built-in free DAISY Player and full set of DAISY-formatted basic training books
+- Works with Microsoft Office, Google Docs, Chrome, Internet Explorer, Firefox, Edge, and much more
+- Supports Windows® 10, Windows 8.1, and Windows 7, including touch screens and gestures
+- Support for MathML content presented in Internet Explorer that is rendered with MathJax
+- Save time with Skim Reading and Text Analyzer
+- Fast information look-up at your fingertips with Research It
+- Fully compatible with ZoomText, Fusion, MAGic, and the OpenBook Scanning and Reading Software
+
+### Sources
+- [JAWS Homepage](https://www.freedomscientific.com/products/software/jaws/)
+
 ## Interesting Insights
 - This [wired.com article](https://www.wired.com/story/web-accessibility-blind-users-dominos/) really emphasizes that "people who use screen readers are regularly confronted with readouts like “unlabeled button” or “image1.jpg” in place of the descriptive information they need to navigate." Especially when most retail and shopping is online nowadays
   - Big reason to include image recognizer
