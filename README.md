@@ -9,6 +9,13 @@ All contributers are computer science majors
 ## Faculty Advisor
 * Dr. Badri Vellambi
 ## Project Details
+## Related Repositories
+[ml-screen-reader](https://github.com/WillCPP/ml-screen-reader) - The machine learning component of this project
+
+[extension-screen-reader](https://github.com/isiah-lloyd/extension-screen-reader) - The user component of this project
+
+[scraper-screen-reader](https://github.com/isiah-lloyd/scraper-screen-reader/blob/main/main.py) - The scraper used to collect the training data
+
 ### Topic Area
 A new, redesigned screen reader for people with vision disabilities that utilizes AI/ML to help navigate web pages with ease and efficiency.
 ### Fall Project Report
