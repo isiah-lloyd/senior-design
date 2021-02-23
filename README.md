@@ -1,4 +1,5 @@
-# A Better Screen Reader
+# BetterRead
+### BetterRead, better heard. A new screenreader for a new generation
 ## Contributors
 * Will Cupp: cuppwm@mail.uc.edu
 * Maddie Eckhart: eckharme@mail.uc.edu
