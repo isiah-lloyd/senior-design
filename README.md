@@ -18,6 +18,6 @@ All contributers are computer science majors
 [scraper-screen-reader](https://github.com/isiah-lloyd/scraper-screen-reader/blob/main/main.py) - The scraper used to collect the training data
 
 ### Topic Area
-A new, redesigned screen reader for people with vision disabilities that utilizes AI/ML to help navigate web pages with ease and efficiency.
+BetterRead is an accessibility tool built to work with websites that don’t conform to accessibility standards in order to make the web more accessible for those with visual impairments.  
 ### Fall Project Report
 [Link to Table of Contents](fall-design-report/00-toc.md)
