@@ -1,4 +1,4 @@
-# Individual Assessments
+# Inital Assessments
 
 ## William Cupp
 
