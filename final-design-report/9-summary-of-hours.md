@@ -97,3 +97,5 @@ Semester total: 62 hours
   
 Year total:  105-110 hours
 #### Justification
+
+The majority of my hours on this project were spent working on the REST API. Since I have had no experience in starting REST API from scratch a lot of this time was spent learning the framework. After learning the framework I was able to use code I had created working with Will Cupp for data processing. The training data creation was data we processed from Isiah’s web scraper being formatted to create a machine learning model.  
