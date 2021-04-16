@@ -36,8 +36,10 @@ Machine Learning Model: 35 hours
 
 ### Maddie Eckhart
 
-Poster: 8 hours  
-UI Design: 4 hours  
+Poster: 12 hours  
+UI Design: 8 hours  
+Project management (meetings, action items, advisor communication): 10 hours  
+Web Extension: 5 hours
 ### Isiah Lloyd
 ### Sean Hearne
 
