@@ -79,6 +79,8 @@ Semester total: 54 hours
 Year total:  97-102  
 #### Justification
 
+The fall semester was spent doing research and team organzation/meetings before we started work in the spring. I spent a majority of my time working on my main duty on this team, which was the web extension. I already knew the basics of developing one so not a lot of time was spent on learning, but developing and working on features that were outside the scope of our orignal plan but a big positive to our extension, such as cloud synced user options. I also spent time developing a web scraper for the machine learning team. I had never done this before so it took time researching how to do it as well as getting my machine setup using Selenium and actually runing the scrapper took quite a lot of time as well. The Spring semester also included meetings with our faculity advisor and team as well as working on our assignments and presentation. 
+
 ---
 
 ### Sean Hearne
