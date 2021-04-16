@@ -112,7 +112,8 @@ Since our project uses multiple technologies across multiple frameworks, we will
   - AP4.7  Blackbox
   - AP4.8  Performance Test
   - AP4.9  Unit Test
-  - **Result: Pass**
+  - **Result: Fail**
+  - Notes: Faster ML resources would have exceeded our budjet so speeed was sacrficed for prototyping
 
 * ML1.1  Machine Learning Test 1
   - ML1.2  This test will ensure that the model can correctly classify data instances.
