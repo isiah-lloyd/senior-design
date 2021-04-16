@@ -43,9 +43,9 @@ Webscraper:
 ## Team Member Hours Worked
 ### Will Cupp
 
-Dataset and Data Processing Tools: 25
-Machine Learning Service Gateway: 8
-Machine Learning Model: 35
+Dataset and Data Processing Tools: 25  
+Machine Learning Service Gateway: 8  
+Machine Learning Model: 35  
 
 ### Maddie Eckhart
 ### Isiah Lloyd
