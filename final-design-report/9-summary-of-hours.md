@@ -43,6 +43,8 @@ Semester total: 87 hours
 Year total:  130-135  
 #### Justification:  
 
+---
+
 ### Maddie Eckhart
 #### Spring
 Team meetings: 28 hours  
@@ -59,6 +61,8 @@ Semester total: 50 hours
 Year total:  93-98  
 #### Justification:  
 
+---
+
 ### Isiah Lloyd
 #### Spring
 Team meetings: 28 hours  
@@ -72,6 +76,8 @@ Semester total: 54 hours
   
 Year total:  97-102  
 #### Justification:  
+
+---
 
 ### Sean Hearne
 #### Spring
