@@ -1,7 +1,8 @@
 # Summary of Hours and Justifcation
 
-## Log of Meeting Hours
+## Log of Hours Worked
 ### Fall Semester
+All team members have worked 45 hours+ during the fall semester on the senior design project
 
 Team meetings (28 hours logged):
 
@@ -13,7 +14,10 @@ Team meetings (28 hours logged):
 10/13/2020: 4 hours  
 10/20/2020: 4 hours  
 
+Research (15-20 hours spent per team member)
+
 ### Spring Semester
+All team members have worked 45 hours+ during the spring semester on the senior design project
 
 Team meetings (19 hours logged):
 
@@ -27,17 +31,22 @@ Team meetings (19 hours logged):
 3/12/2021: 2 hours   
 3/23/2021: 2 hours   
 3/30/2021: 1 hour   
-4/2/2021: 2 hours    
+4/2/2021: 2 hours   
 
-## Team Member Hours Worked
 Development ( hours logged):
 
-Poster: 8 hours    
-UI Design: 4 hours   
+Poster: 5 hours  
+UI Design:  
 Extension:  
-Webscraper: 
+Webscraper:  
+
+## Team Member Hours Worked
 ### Will Cupp
-### Maddie Eckhart  
-My responsibilities included scheduling weekly meetings with the team, scheduling biweekly meetings with our advisor, sending out reminders for each meeting, keeping detailed meeting notes and keeping track of action items. My other major contribution to the project was that of user interface designer. I focused a lot of the branding of BetterRead – coming up with the name, the color scheme, and how we wanted to bring together both vision impaired and seeing communities. For the logo, I wanted it to be clean and simple and incorporate braille in some way. The final result was a combination of the initials of BetterRead, ‘BR’, and the braille letters for B and R inside of them. Another one of my responsibilities was to design the poster. I planned out the position, font, and color scheme of the different sections, put together charts, and collected feedback from teammates and advisor.
+
+Dataset and Data Processing Tools: 25
+Machine Learning Service Gateway: 8
+Machine Learning Model: 35
+
+### Maddie Eckhart
 ### Isiah Lloyd
 ### Sean Hearne
