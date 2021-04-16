@@ -41,5 +41,5 @@ UI Design: 4 hours
 ### Isiah Lloyd
 ### Sean Hearne
 
-Data Processing: 10 hours
-REST API Development: 35 hours
+Data Processing: 10 hours  
+REST API Development: 35 hours  
