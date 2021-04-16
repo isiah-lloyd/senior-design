@@ -32,11 +32,14 @@ Team meetings (19 hours logged):
 #### Spring
 Team meetings: 28 hours  
 Research: 15-20 hours  
-Total: 43-48 hours  
+Semester total: 43-48 hours  
 #### Fall  
 Dataset and Data Processing Tools: 25 hours  
 Machine Learning Service Gateway: 8 hours  
 Machine Learning Model: 35 hours  
+Semester total: 68 hours  
+Year total:  111-116  
+#### Justification:  
 
 ### Maddie Eckhart
 #### Spring
@@ -47,7 +50,10 @@ Semester total: 43-48 hours
 Poster: 10 hours  
 UI Design: 8 hours  
 Project management (meetings, action items, advisor communication): 8 hours  
-Web Extension: 5 hours
+Web Extension: 5 hours  
+Semester total: 31 hours  
+Year total:  74-79  
+#### Justification:  
 
 ### Isiah Lloyd
 #### Spring
@@ -57,6 +63,9 @@ Semester total: 43-48 hours
 #### Fall  
 Web Extension: 25 hours  
 Web scraper: 10 hours  
+Semester total: 35 hours  
+Year total:  78-83  
+#### Justification:  
 
 ### Sean Hearne
 #### Spring
@@ -67,3 +76,6 @@ Semester total: 43-48 hours
 Trainning Data Creation: 5 hours  
 Data Processing: 8 hours  
 REST API Development: 30 hours  
+Semester total: 43 hours  
+Year total:  86-91 hours
+#### Justification:  
