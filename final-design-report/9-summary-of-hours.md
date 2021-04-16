@@ -31,16 +31,15 @@ Team meetings (19 hours logged):
 3/12/2021: 2 hours   
 3/23/2021: 2 hours   
 3/30/2021: 1 hour   
-4/2/2021: 2 hours   
-
-Development ( hours logged):
-
-Poster: 5 hours  
-UI Design:  
-Extension:  
-Webscraper:  
+4/2/2021: 2 hours    
 
 ## Team Member Hours Worked
+Development ( hours logged):
+
+Poster: 5 hours    
+UI Design: 4 hours   
+Extension:  
+Webscraper: 
 ### Will Cupp
 ### Maddie Eckhart
 ### Isiah Lloyd
