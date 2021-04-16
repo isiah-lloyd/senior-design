@@ -59,7 +59,8 @@ Web Extension: 5 hours
 Semester total: 50 hours  
   
 Year total:  93-98  
-#### Justification:  
+#### Justification
+A majority of my time was spent acting as the project manager, which included scheduling weekly meetings with the team, scheduling biweekly meetings with our advisor, sending out reminders for each meeting, keeping detailed meeting notes and keeping track of action items. My other major contribution to the project was that of user interface designer. I focused a lot of the branding of BetterRead – coming up with the name, the color scheme, and how we wanted to bring together both vision impaired and seeing communities. Another one of my responsibilities was to design the poster. I planned out the position, font, and color scheme of the different sections, put together charts, and collected feedback from teammates and advisor. I learned new programs like Adobe Illustrator to create the logo and Adobe Photoshop to create the poster, which took a good chunk of time to learn.
 
 ---
 
