@@ -1,8 +1,7 @@
 # Summary of Hours and Justifcation
 
-## Log of Hours Worked
+## Log of Meeting Hours
 ### Fall Semester
-All team members have worked 45 hours+ during the fall semester on the senior design project
 
 Team meetings (28 hours logged):
 
@@ -14,10 +13,7 @@ Team meetings (28 hours logged):
 10/13/2020: 4 hours  
 10/20/2020: 4 hours  
 
-Research (15-20 hours spent per team member)
-
 ### Spring Semester
-All team members have worked 45 hours+ during the spring semester on the senior design project
 
 Team meetings (19 hours logged):
 
@@ -36,7 +32,7 @@ Team meetings (19 hours logged):
 ## Team Member Hours Worked
 Development ( hours logged):
 
-Poster: 5 hours    
+Poster: 8 hours    
 UI Design: 4 hours   
 Extension:  
 Webscraper: 
