@@ -40,7 +40,12 @@ Poster: 12 hours
 UI Design: 8 hours  
 Project management (meetings, action items, advisor communication): 10 hours  
 Web Extension: 5 hours
+
 ### Isiah Lloyd
+
+Web Extension: 25 hours  
+Web scraper: 10 hours  
+
 ### Sean Hearne
 
 Data Processing: 10 hours  
