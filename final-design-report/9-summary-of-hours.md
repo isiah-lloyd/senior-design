@@ -38,6 +38,7 @@ Dataset and Data Processing Tools: 25 hours
 Machine Learning Service Gateway: 8 hours  
 Machine Learning Model: 35 hours  
 Semester total: 68 hours  
+  
 Year total:  111-116  
 #### Justification:  
 
@@ -52,6 +53,7 @@ UI Design: 8 hours
 Project management (meetings, action items, advisor communication): 8 hours  
 Web Extension: 5 hours  
 Semester total: 31 hours  
+  
 Year total:  74-79  
 #### Justification:  
 
@@ -64,6 +66,7 @@ Semester total: 43-48 hours
 Web Extension: 25 hours  
 Web scraper: 10 hours  
 Semester total: 35 hours  
+  
 Year total:  78-83  
 #### Justification:  
 
@@ -77,5 +80,6 @@ Trainning Data Creation: 5 hours
 Data Processing: 8 hours  
 REST API Development: 30 hours  
 Semester total: 43 hours  
+  
 Year total:  86-91 hours
 #### Justification:  
