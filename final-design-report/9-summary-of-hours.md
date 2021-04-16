@@ -28,26 +28,34 @@ Team meetings (19 hours logged):
 4/2/2021: 2 hours   
 
 ## Team Member Hours Worked
-### Will Cupp
-
+### Will Cupp  
+#### Spring
+Research: 15-20 hours
+#### Fall  
 Dataset and Data Processing Tools: 25 hours  
 Machine Learning Service Gateway: 8 hours  
 Machine Learning Model: 35 hours  
 
 ### Maddie Eckhart
-
+#### Spring
+Research: 15-20 hours
+#### Fall  
 Poster: 10 hours  
 UI Design: 8 hours  
 Project management (meetings, action items, advisor communication): 8 hours  
 Web Extension: 5 hours
 
 ### Isiah Lloyd
-
+#### Spring
+Research: 15-20 hours
+#### Fall  
 Web Extension: 25 hours  
 Web scraper: 10 hours  
 
 ### Sean Hearne
-
+#### Spring
+Research: 15-20 hours
+#### Fall  
 Trainning Data Creation: 5 hours  
 Data Processing: 8 hours  
 REST API Development: 30 hours  
