@@ -3,7 +3,7 @@
 | Document | Link |
 | -------- | ---- |
 | 1. Project Description | [Description](1-project-description.md)   |
-| 2. User Interface Specification | [Description](2-project-description.md)|
+| 2. User Interface Specification | [Description](2-user-interface.md)|
 | 3. Test Plan and Results | [Stories](3-test-plan.md)|
 | 4. User Manual | [Diagrams](4-user-manual.md)|
 | 5. PPT Slideshow | [Slidedeck](BetterRead%20Slidedeck.pdf) --- [Video](https://youtu.be/ILgFibDtG6I)|
