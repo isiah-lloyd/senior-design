@@ -10,4 +10,4 @@
 | 6. Expo Poster | [Poster](https://github.com/isiah-lloyd/senior-design/blob/master/BetterRead%20V2.pdf)|
 | 7. Inital Self-Assesments | [Essays](7-inital-assesments.md)|
 | 8. Final Self-Assessments  | [Essays](8-final-assessments.md)|
-| 9. Summary of Hours and Justification | [Bios](9-summary-of-hours.md)|
+| 9. Summary of Hours and Justification | [Summary](9-summary-of-hours.md)|
