@@ -41,7 +41,7 @@ Machine Learning Model: 35 hours
 Semester total: 87 hours  
   
 Year total:  130-135  
-#### Justification:  
+#### Justification
 During the fall semester, I participated in our team meetings. Outside of the meetings I researched various machine learning technology that may be applicable to our project and worked on proof of concepts.  In the spring semester, I participated in team meetings.  I worked on developing the dataset we would use for training and the tools that we used to process raw data into a usable dataset.  I worked on the machine learning service gateway, which allowed our finished machine learning model to communicate with the other components of our project.  I also worked on developing, training, and testing our machine learning model.
 ---
 
@@ -76,7 +76,7 @@ Web scraper: 10 hours
 Semester total: 54 hours  
   
 Year total:  97-102  
-#### Justification:  
+#### Justification
 
 ---
 
@@ -93,4 +93,4 @@ REST API Development: 30 hours
 Semester total: 62 hours  
   
 Year total:  105-110 hours
-#### Justification:  
+#### Justification
