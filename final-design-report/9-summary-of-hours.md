@@ -36,9 +36,9 @@ Machine Learning Model: 35 hours
 
 ### Maddie Eckhart
 
-Poster: 12 hours  
+Poster: 10 hours  
 UI Design: 8 hours  
-Project management (meetings, action items, advisor communication): 10 hours  
+Project management (meetings, action items, advisor communication): 8 hours  
 Web Extension: 5 hours
 
 ### Isiah Lloyd
@@ -48,6 +48,5 @@ Web scraper: 10 hours
 
 ### Sean Hearne
 
-Trainning Data Creating: 5 hours  
 Data Processing: 10 hours  
 REST API Development: 35 hours  
