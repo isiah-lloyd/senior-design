@@ -35,10 +35,10 @@ Team meetings (19 hours logged):
 
 Development ( hours logged):
 
-Poster: 5 hours
-UI Design:
-Extension:
-Webscraper:
+Poster: 5 hours  
+UI Design:  
+Extension:  
+Webscraper:  
 
 ## Team Member Hours Worked
 ### Will Cupp
