@@ -34,12 +34,13 @@ Team meetings: 28 hours
 Research: 15-20 hours  
 Semester total: 43-48 hours  
 #### Fall  
+Team meetings: 19 hours  
 Dataset and Data Processing Tools: 25 hours  
 Machine Learning Service Gateway: 8 hours  
 Machine Learning Model: 35 hours  
-Semester total: 68 hours  
+Semester total: 87 hours  
   
-Year total:  111-116  
+Year total:  130-135  
 #### Justification:  
 
 ### Maddie Eckhart
@@ -48,13 +49,14 @@ Team meetings: 28 hours
 Research: 15-20 hours  
 Semester total: 43-48 hours  
 #### Fall  
+Team meetings: 19 hours  
 Poster: 10 hours  
 UI Design: 8 hours  
 Project management (meetings, action items, advisor communication): 8 hours  
 Web Extension: 5 hours  
-Semester total: 31 hours  
+Semester total: 50 hours  
   
-Year total:  74-79  
+Year total:  93-98  
 #### Justification:  
 
 ### Isiah Lloyd
@@ -63,11 +65,12 @@ Team meetings: 28 hours
 Research: 15-20 hours  
 Semester total: 43-48 hours  
 #### Fall  
+Team meetings: 19 hours  
 Web Extension: 25 hours  
 Web scraper: 10 hours  
-Semester total: 35 hours  
+Semester total: 54 hours  
   
-Year total:  78-83  
+Year total:  97-102  
 #### Justification:  
 
 ### Sean Hearne
@@ -76,10 +79,11 @@ Team meetings: 28 hours
 Research: 15-20 hours  
 Semester total: 43-48 hours  
 #### Fall  
+Team meetings: 19 hours  
 Trainning Data Creation: 5 hours  
 Data Processing: 8 hours  
 REST API Development: 30 hours  
-Semester total: 43 hours  
+Semester total: 62 hours  
   
-Year total:  86-91 hours
+Year total:  105-110 hours
 #### Justification:  
