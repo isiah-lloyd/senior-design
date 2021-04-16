@@ -21,3 +21,5 @@ All contributers are computer science majors
 BetterRead is an accessibility tool built to work with websites that don’t conform to accessibility standards in order to make the web more accessible for those with visual impairments.  
 ### Fall Project Report
 [Link to Table of Contents](fall-design-report/00-toc.md)
+### Spring Project Report
+[Link to Table of Contents](final-design-report/00-toc.md)
