@@ -30,7 +30,9 @@ Team meetings (19 hours logged):
 ## Team Member Hours Worked
 ### Will Cupp  
 #### Spring
-Research: 15-20 hours
+Team meetings: 28 hours  
+Research: 15-20 hours  
+Total: 43-48 hours  
 #### Fall  
 Dataset and Data Processing Tools: 25 hours  
 Machine Learning Service Gateway: 8 hours  
@@ -38,7 +40,9 @@ Machine Learning Model: 35 hours
 
 ### Maddie Eckhart
 #### Spring
-Research: 15-20 hours
+Team meetings: 28 hours  
+Research: 15-20 hours  
+Semester total: 43-48 hours  
 #### Fall  
 Poster: 10 hours  
 UI Design: 8 hours  
@@ -47,14 +51,18 @@ Web Extension: 5 hours
 
 ### Isiah Lloyd
 #### Spring
-Research: 15-20 hours
+Team meetings: 28 hours  
+Research: 15-20 hours  
+Semester total: 43-48 hours  
 #### Fall  
 Web Extension: 25 hours  
 Web scraper: 10 hours  
 
 ### Sean Hearne
 #### Spring
-Research: 15-20 hours
+Team meetings: 28 hours  
+Research: 15-20 hours  
+Semester total: 43-48 hours  
 #### Fall  
 Trainning Data Creation: 5 hours  
 Data Processing: 8 hours  
