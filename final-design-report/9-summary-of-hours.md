@@ -48,6 +48,6 @@ Web scraper: 10 hours
 
 ### Sean Hearne
 
-Trainning Data Creating: 5 hours
+Trainning Data Creating: 5 hours  
 Data Processing: 10 hours  
 REST API Development: 35 hours  
